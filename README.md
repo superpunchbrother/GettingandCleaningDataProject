@@ -1,6 +1,6 @@
 ### Introduction
 
-This my submission for the Getting and Cleaning Data course project.
+This is my submission for the Getting and Cleaning Data course project.
 
 
 ### Assignment: Getting and Cleaning Data Course Project
